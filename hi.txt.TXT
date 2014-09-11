@@ -6,9 +6,18 @@ daasdfadsf
 asdfadsfsadf
 
 
+<<<<<<< .mine
 asdfdsfsdfsd
 
 gfgsdfgsdf
 sfgsdfgdsfg
 
 sdgsdfgdfg
+=======
+asdfdsfsdfsd
+
+ppppppppppppppp
+gggggggggggggggg
+hhhhhhhhhhhhhhhhh
+
+>>>>>>> .theirs
